@@ -63,7 +63,7 @@ select * from orders where not ((odate ='1990-10-03' or snum>1006 )and amt >=150
 	  Select snum, sname, city, comm From Salespeople
                where (comm > .12 OR comm <.14);
 
-
+ -- -----------------------------------------------------------------------------------------
 
 
 
