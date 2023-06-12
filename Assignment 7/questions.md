@@ -7,3 +7,5 @@ Customers table.
 
 4) Write a query that selects the first customer, in alphabetical order, whose name 
 begins with G.
+
+5) Write a query that selects the highest rating in each city.
