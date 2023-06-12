@@ -9,3 +9,7 @@ Customers table.
 begins with G.
 
 5) Write a query that selects the highest rating in each city.
+
+6) Write a query that counts the number of salespeople registering orders for each 
+day. (If a salesperson has more than one order on a given day, he or she should be 
+counted only once.).
